@@ -1,0 +1,14 @@
+# ENV
+.venv
+venv
+.env
+env
+
+# DJANGO
+__pycache__
+media
+*.sqlite3
+*.sqlite3-journal
+
+# IDE
+.vscode
